@@ -37,8 +37,9 @@ Unit tests to cover Ok and 500 status response
 Features which are not covered but would have added in additional time
 More Unit test coverage
 Validations for incorrect currency types
-Logging in DB or flat file
+Logging in DB or flat file 
 Upgraded to .NET 8 
 More error handling 
+Configurations to be read from Database
 
 
